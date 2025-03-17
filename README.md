@@ -81,6 +81,4 @@ A React-based web application mimicking the Netflix browsing experience, utilizi
 -   Refine the responsiveness for a wider range of devices.
 
 ## Author/Contact
-
--   Your Name: [Your GitHub Profile](https://github.com/VipulG23)
 -   Email: [vipulgajbhiye23@gmail.com]
